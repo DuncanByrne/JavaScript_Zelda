@@ -1,6 +1,11 @@
 # JavaScript_Zelda
 
-this is a simple game that only has one level and one boss to beat. This game was made using Kaboom.js and basic HTML5
+this is a simple game that only has one level and one boss to beat. This game was made using Kaboom.js and basic HTML5. You navigate through the game with the arrow keys on the keyboard, you can use the spacebar to fight the boss when you reach the second floor. There is only one level to the game right now.
+
+
+
+#Link https://duncanbyrne.github.io/JavaScript_Zelda/
+
 
 # Images
 
